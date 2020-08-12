@@ -1,4 +1,5 @@
 <?php include "includes/db.php" ?>
+<?php include "admin/functions.php" ?>
 <?php include "includes/header.php" ?>
 <!-- Navigation Bar -->
 <?php include "includes/navigation.php" ?>
